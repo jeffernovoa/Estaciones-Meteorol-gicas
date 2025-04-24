@@ -1,2 +1,2 @@
-# Estaciones-Meteorol-gicas
-https://github.com/jeffernovoa/Estaciones-Meteorol-gicas.git
+# Estaciones-Meteorologicas
+https://github.com/jeffernovoa/Estaciones-Meteorologicas.git
