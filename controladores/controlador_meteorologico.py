@@ -1,3 +1,9 @@
+import sys
+import os
+
+# Agregar la raíz del proyecto al PYTHONPATH
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 from modelos.estacion import StationNode
 from modelos.encriptacion import Encryptor
 
